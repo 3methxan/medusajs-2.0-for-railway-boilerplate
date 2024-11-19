@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "@medusajs/js-sdk": "^2.0.4",
-    "@medusajs/types": "^2.0.4"
+    "@medusajs/types": "^2.0.4",
+    "medusa": "^0.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0"
   }
 }
