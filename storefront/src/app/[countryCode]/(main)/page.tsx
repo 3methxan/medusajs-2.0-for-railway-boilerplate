@@ -29,7 +29,7 @@ export default async function Home({
       <Hero />
       <div className="py-12">
         <ul className="flex flex-col gap-x-6">
-          asdfsdf 
+         <div className="text-4xl">dfaasdfsda</div>  
           <FeaturedProducts collections={collections} region={region} />
         </ul>
       </div>
